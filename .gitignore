@@ -1,0 +1,10 @@
+# ignore everything
+*
+
+# except directories
+!*/
+
+# and source code
+!.gitignore
+!*.cpp
+!*.h
