@@ -8,3 +8,6 @@
 !.gitignore
 !*.cpp
 !*.h
+
+# and configs
+!/configs/*
