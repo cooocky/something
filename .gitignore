@@ -9,5 +9,6 @@
 !*.cpp
 !*.h
 
-# and configs
+# and everything inside this dirs
 !/configs/*
+!/scripts/*
